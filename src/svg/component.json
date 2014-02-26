@@ -1,0 +1,11 @@
+{
+  "name": "svg",
+  "dependencies": {
+  },
+  "development": {},
+  "templates" : ["svg.html"],
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

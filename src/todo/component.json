@@ -1,0 +1,11 @@
+{
+  "name": "todo",
+  "dependencies": {
+  },
+  "development": {},
+  "templates" : ["todo.html"],
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

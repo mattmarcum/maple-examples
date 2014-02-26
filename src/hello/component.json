@@ -1,0 +1,11 @@
+{
+  "name": "hello",
+  "dependencies": {
+  },
+  "development": {},
+  "templates" : ["hello.html"],
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

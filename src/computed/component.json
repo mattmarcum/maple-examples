@@ -1,0 +1,11 @@
+{
+  "name": "computed",
+  "dependencies": {
+  },
+  "development": {},
+  "templates" : ["computed.html"],
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stack",
+  "dependencies": {
+  },
+  "development": {},
+  "templates" : ["stack.html"],
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

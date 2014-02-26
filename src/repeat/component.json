@@ -1,0 +1,11 @@
+{
+  "name": "repeat",
+  "dependencies": {
+  },
+  "development": {},
+  "templates" : ["repeat.html"],
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
