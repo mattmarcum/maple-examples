@@ -1,0 +1,14 @@
+{
+  "name": "maple-examples",
+  "repo": "leafs/maple-examples",
+  "description": "maple examples",
+  "version": "0.0.1",
+  "keywords": [],
+  "license": "MIT",
+  "paths": [
+    "src"
+  ],
+  "local": [
+    "build"
+  ]
+}
