@@ -1,6 +1,8 @@
 {
   "name": "hello",
   "dependencies": {
+    "leafs/maple" : "*",
+  	"bredele/event-plugin" : "*"
   },
   "development": {},
   "templates" : ["hello.html"],

@@ -1,9 +1,9 @@
 {
-  "name": "stack",
+  "name": "stacks",
   "dependencies": {
   },
   "development": {},
-  "templates" : ["stack.html"],
+  "templates" : ["stacks.html"],
   "main": "index.js",
   "scripts": [
     "index.js"
