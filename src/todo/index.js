@@ -20,7 +20,7 @@ store.compute('completed', function() {
 	return this.items - this.pending;
 });
 
-//temporary
+//do with expression, should listen changes
 store.compute('number', function() {
   return '' + this.pending; 
 });
